@@ -14,4 +14,8 @@ The compass is controlled by an Arduino microcontroller. This receives its curre
 In addition, there is an LED ring display that shows the distance traveled to the target as progress. the closer you get to the target, the more the ring closes. If you move away from the target, this is displayed with red lights.
 
 The desired target coordinates can be transferred to the compass via NFC.</p>
+<br />
+
+### 🎥 Demovideo
+<li>https://youtu.be/dH5kEkXdONI</li>
 
